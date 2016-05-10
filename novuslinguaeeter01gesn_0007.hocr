@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novuslinguaeeter01gesn_0007.png"; bbox 0 0 2474 4182; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 147 971 2271 1141">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 147 971 2271 1141">
+     <span class='ocr_line' id='line_1_1' title="bbox 147 971 2271 1141; baseline -0.002 -52"><span class='ocrx_word' id='word_1_1' title='bbox 147 1042 158 1063; x_wconf 69' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 391 974 577 1088; x_wconf 85' lang='lat'><strong>10.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 627 971 2045 1091; x_wconf 83' lang='lat' dir='ltr'><strong>MATTHI.GESNERI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2270 1138 2271 1141; x_wconf 5' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 894 1218 1507 1291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 894 1218 1507 1291">
+     <span class='ocr_line' id='line_1_2' title="bbox 894 1218 1507 1291; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 894 1218 1507 1291; x_wconf 91' lang='lat' dir='ltr'>VVVVV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 42 1423 2412 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 42 1423 2412 1970">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 1423 2412 1628; baseline 0.013 -32"><span class='ocrx_word' id='word_1_6' title='bbox 42 1423 1138 1597; x_wconf 86' lang='lat' dir='ltr'>LINGVAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1272 1424 2412 1628; x_wconf 83' lang='lat' dir='ltr'><strong>LATINAE.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 241 1754 2406 1970; baseline 0.003 -4"><span class='ocrx_word' id='word_1_8' title='bbox 241 1754 2182 1970; x_wconf 86' lang='lat' dir='ltr'><strong>THESAVRVS.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2373 1764 2406 1792; x_wconf 75' lang='grc'><strong>”</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 612 2151 1820 2289">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 612 2151 1820 2289">
+     <span class='ocr_line' id='line_1_5' title="bbox 612 2151 1820 2289; baseline 0.002 -3"><span class='ocrx_word' id='word_1_10' title='bbox 612 2170 974 2286; x_wconf 88' lang='grc' dir='ltr'><strong>ΤΟΜ.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1044 2171 1180 2285; x_wconf 84' lang='grc'><strong>1.·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1263 2151 1365 2284; x_wconf 86' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_13' title='bbox 1474 2228 1588 2246; x_wconf 91' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1708 2175 1820 2289; x_wconf 86' lang='lat' dir='ltr'><strong>C.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
